@@ -1,40 +1,5 @@
 {
-  "name": "Source HvK",
-  "identifier": "com.hvk.source",
-  "subtitle": "Apps HvK",
-  "description": "Source HvK",
-  "iconURL": "",
-  "website": "",
-  "apps": [
-    {
-      "name": "Spotify",
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "HvK",
-      "localizedDescription": "Spotify",
-      "iconURL": "",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2026-06-01T00:00:00Z",
-          "size": 1,
-          "downloadURL": "https://github.com/Darki68/HvK/releases/download/IPA/EeveeSpotify.ipa"
-        }
-      ]
-    },
-    {
-      "name": "YouTube",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "HvK",
-      "localizedDescription": "YouTube",
-      "iconURL": "",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2026-06-01T00:00:00Z",
-          "size": 1,
-          "downloadURL": "https://github.com/Darki68/HvK/releases/download/IPA/YTPlus_5.2.1_21.16.2.ipa"
-        }
-      ]
-    }
-  ]
+  "name": "Test",
+  "identifier": "com.test.source",
+  "apps": []
 }
