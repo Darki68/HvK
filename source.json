@@ -1,6 +1,7 @@
 {
   "name": "HvK Source",
   "identifier": "com.hvk.source",
+  "iconURL": "https://darki68.github.io/logo.png",
   "apps": [
     {
       "name": "EeveeSpotify",
@@ -8,10 +9,10 @@
       "developerName": "HvK",
       "version": "1.0",
       "versionDate": "2026-01-01",
-      "size": 150000000,
+      "size": 180000000,
       "downloadURL": "https://github.com/Darki68/HvK/releases/download/v1/EeveeSpotify.ipa",
-      "iconURL": "https://via.placeholder.com/120",
-      "localizedDescription": "Spotify mod"
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+      "localizedDescription": "Spotify modifié"
     },
     {
       "name": "YTPlus",
@@ -19,10 +20,10 @@
       "developerName": "HvK",
       "version": "1.0",
       "versionDate": "2026-01-01",
-      "size": 200000000,
+      "size": 220000000,
       "downloadURL": "https://github.com/Darki68/HvK/releases/download/v1/YTPlus.ipa",
-      "iconURL": "https://via.placeholder.com/120",
-      "localizedDescription": "YouTube mod"
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg",
+      "localizedDescription": "YouTube modifié"
     }
   ]
 }
