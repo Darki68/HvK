@@ -1,40 +1,16 @@
 {
-  "name": "Source HvK",
+  "name": "HvK",
   "identifier": "com.hvk.source",
-  "subtitle": "Apps HvK",
-  "description": "Source HvK",
-  "iconURL": "",
-  "website": "",
   "apps": [
     {
-      "name": "Spotify",
+      "name": "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "HvK",
-      "localizedDescription": "Spotify",
-      "iconURL": "",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2026-06-01T00:00:00Z",
-          "size": 1,
-          "downloadURL": "http://88.166.57.237/EeveeSpotify.ipa"
-        }
-      ]
-    },
-    {
-      "name": "YouTube",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "HvK",
-      "localizedDescription": "YouTube",
-      "iconURL": "",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2026-06-01T00:00:00Z",
-          "size": 1,
-          "downloadURL": "http://88.166.57.237/YTPlus_5.2.1_21.16.2.ipa"
-        }
-      ]
+      "version": "1.0",
+      "versionDate": "2026-01-01",
+      "downloadURL": "https://github.com/TONUSER/REPO/releases/download/v1/EeveeSpotify.ipa",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+      "localizedDescription": "Spotify modifié"
     }
   ]
 }
