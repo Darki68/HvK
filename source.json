@@ -1,5 +1,6 @@
 {
-  "name": "Test",
-  "identifier": "com.test.source",
+  "name": "HvK Source",
+  "identifier": "com.hvk.source",
+  "sourceURL": "https://darki68.github.io/source.json",
   "apps": []
 }
